@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+### Personal Statement on Ethics
+I believe that ethics plays an important role in computer science, especially as technology becomes more involved in our everyday lives. One of the ideas I took away from Chapter 5 of *Ethical Machines* is that just because technology is capable of doing something does not necessarily mean it should. As someone studying computer science with a focus on cybersecurity, I believe developers and engineers have a responsibility to consider how their work affects others, particularly when it comes to privacy, security, and fairness. Technology should be designed not only to function properly but also to protect the people who rely on it. Ultimately, I believe ethical decision-making should be a priority throughout the development process rather than something considered only after problems arise.
